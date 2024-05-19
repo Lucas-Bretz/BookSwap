@@ -1,0 +1,19 @@
+1. Criar anúncio:
+    - Caso de Teste 1: Criar um anúncio com todos os campos preenchidos corretamente.
+    - Caso de Teste 2: Tentar criar um anúncio sem preencher todos os campos obrigatórios.
+    - Caso de Teste 3: Criar um anúncio com uma imagem em formato inválido.
+
+2. Atualizar a disponibilidade do anúncio: 
+    - Caso de Teste 1: Atualizar a disponibilidade de um anúncio de "Disponível" para "Indisponível".
+    - Caso de Teste 2: Tentar atualizar a disponibilidade sem selecionar um anúncio.
+    - Caso de Teste 3: Atualizar a disponibilidade durante uma conexão de rede instável.
+
+3. Buscar Material:
+    - Caso de Teste 1: Buscar material com uma palavra-chave válida.
+    - Caso de Teste 2: Buscar material com uma palavra-chave inexistente.
+    - Caso de Teste 3: Buscar material utilizando filtros avançados.
+
+4. Confirmação do anúncio escolhido:
+    - Caso de Teste 1: Confirmar interesse em um anúncio com todos os dados corretos.
+    - Caso de Teste 2: Confirmar interesse em um anúncio com campos obrigatórios faltando.
+    - Caso de Teste 3: Confirmar interesse em um anúncio com email inválido.
